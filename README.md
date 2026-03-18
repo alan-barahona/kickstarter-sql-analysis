@@ -34,6 +34,20 @@ This project performs a comprehensive analysis of the **Kickstarter 2018 dataset
    ```bash
    python data_analysis.py
 
+##  Project Insights & Visualizations
+
+After processing the data, these are the main findings from the Kickstarter 2018 dataset:
+
+### 1. Most Successful Categories
+The following chart shows the Top 10 categories with the highest number of successfully funded projects. **Music** and **Film & Video** are leading the platform in terms of project volume.
+
+![Successful Categories](successful_categories.png)
+
+### 2. Global Funding by Country
+When looking at the total money pledged (USD), the **United States (US)** significantly outpaces all other countries, showing its dominance as the primary market for crowdfunding.
+
+![Money by Country](top_countries_pledged.png)
+
 ---
 ---
 *This project was developed as part of my professional portfolio for Software Development and Data Analysis.*
